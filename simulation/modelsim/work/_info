@@ -1,0 +1,314 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/xiawe/Desktop/part/simulation/modelsim
+Ealu
+Z1 w1503300894
+Z2 DPx4 work 6 common 0 22 j?E]FNL[7z@4B@S?h9iGN2
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/alu.vhd
+Z7 FC:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/alu.vhd
+l0
+L7
+Vc83_FFjKh_fiAT25bKM<80
+!s100 mVkRlgBPfS2A>L@8;5o2K0
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1535539105
+!i10b 1
+Z10 !s108 1535539105.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/alu.vhd|
+Z12 !s107 C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/alu.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 c83_FFjKh_fiAT25bKM<80
+l16
+L14
+Va0N=]ERC=cjWk=ZMePf=L3
+!s100 K9lNgNiV1ckgBk;YS3n6_1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Pcommon
+R3
+R4
+R5
+Z15 w1503352356
+R0
+Z16 8C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/common.vhd
+Z17 FC:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/common.vhd
+l0
+L6
+Vj?E]FNL[7z@4B@S?h9iGN2
+!s100 V0EfCUdZ]IGRkiFbjzYX40
+R8
+32
+b1
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/common.vhd|
+Z19 !s107 C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/common.vhd|
+!i113 1
+R13
+R14
+Bbody
+R2
+R3
+R4
+R5
+l0
+L83
+VXF14WT1WeT1CCeT?9nBda2
+!s100 0gjG^3NNP15RFgc`n6X?D2
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Edmem
+Z20 w1535366791
+R2
+R3
+R4
+R5
+R0
+Z21 8C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/dmem.vhd
+Z22 FC:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/dmem.vhd
+l0
+L7
+VTDc=U@UaQ6I@7^BA``boH1
+!s100 lZZQ3DegG[DoHZ@_i<4Kl2
+R8
+32
+R9
+!i10b 1
+R10
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/dmem.vhd|
+Z24 !s107 C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/dmem.vhd|
+!i113 1
+R13
+R14
+Amemory
+R2
+R3
+R4
+R5
+DEx4 work 4 dmem 0 22 TDc=U@UaQ6I@7^BA``boH1
+l21
+L17
+VGEU3mm]iXK0<hCY@Z2lF[3
+!s100 FB>]0@lVMKS:cKOP0YM^42
+R8
+32
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14
+Eimem
+Z25 w1503388075
+R3
+R2
+Z26 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z27 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R4
+R5
+R0
+Z28 8C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/imem.vhd
+Z29 FC:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/imem.vhd
+l0
+L8
+Vz1bgm3OoQCajJRMW7PC:@1
+!s100 <UzRU?[XMTm;Ln@FJlf2]0
+R8
+32
+R9
+!i10b 1
+R10
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/imem.vhd|
+Z31 !s107 C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/imem.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R2
+R26
+R27
+R4
+R5
+DEx4 work 4 imem 0 22 z1bgm3OoQCajJRMW7PC:@1
+l37
+L14
+VKR6Z3MdhI]9QNLL<44iOQ1
+!s100 k2kE:d[T1Q9Vj6e:BAoi50
+R8
+32
+R9
+!i10b 1
+R10
+R30
+R31
+!i113 1
+R13
+R14
+Eregfile
+R1
+R2
+R3
+R4
+R5
+R0
+Z32 8C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/regfile.vhd
+Z33 FC:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/regfile.vhd
+l0
+L7
+V1io9U1J_BHm[a8a=61X083
+!s100 n:U`zgHhB89@LI<oG^R[20
+R8
+32
+R9
+!i10b 1
+R10
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/regfile.vhd|
+Z35 !s107 C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/regfile.vhd|
+!i113 1
+R13
+R14
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 7 regfile 0 22 1io9U1J_BHm[a8a=61X083
+l32
+L27
+VfIcDP67jE;Z@kfmm7k3BO0
+!s100 5;;IkR1=SHl[93K69@BjF3
+R8
+32
+R9
+!i10b 1
+R10
+R34
+R35
+!i113 1
+R13
+R14
+Estore
+Z36 w1535539085
+R2
+R3
+R4
+R5
+R0
+Z37 8C:\Users\xiawe\OneDrive - The University of Sydney (Students)\ELEC3608 Computer Architecture\LAB4\Part 2&3\src\store.vhd
+Z38 FC:\Users\xiawe\OneDrive - The University of Sydney (Students)\ELEC3608 Computer Architecture\LAB4\Part 2&3\src\store.vhd
+l0
+L10
+VB7OMa_XlLa_Jcmn>MgE491
+!s100 RQH6WOn:;Z38jZzg2A90e1
+R8
+32
+R9
+!i10b 1
+R10
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\xiawe\OneDrive - The University of Sydney (Students)\ELEC3608 Computer Architecture\LAB4\Part 2&3\src\store.vhd|
+Z40 !s107 C:\Users\xiawe\OneDrive - The University of Sydney (Students)\ELEC3608 Computer Architecture\LAB4\Part 2&3\src\store.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 5 store 0 22 B7OMa_XlLa_Jcmn>MgE491
+l84
+L16
+V_4IN7KWJ]ZWDQXGVAgO>Z2
+!s100 K0UPL^3lV@[e:K6kfHOb@0
+R8
+32
+R9
+!i10b 1
+R10
+R39
+R40
+!i113 1
+R13
+R14
+Estore_tb
+Z41 w1503384178
+R2
+R3
+R4
+R5
+R0
+Z42 8C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/store_tb.vhd
+Z43 FC:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/store_tb.vhd
+l0
+L8
+VjFC1D91^@Fd_0>VoOIE4S2
+!s100 h:II:_C5@YLia:<4>lRUh2
+R8
+32
+R9
+!i10b 1
+R10
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/store_tb.vhd|
+Z45 !s107 C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/store_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+R5
+Z46 DEx4 work 8 store_tb 0 22 jFC1D91^@Fd_0>VoOIE4S2
+l24
+L11
+Z47 V:V8z2^?84XK?Y80hoH?Fc2
+Z48 !s100 L1;ZKX[CLA92?1H9eSCiA1
+R8
+32
+R9
+!i10b 1
+R10
+R44
+R45
+!i113 1
+R13
+R14

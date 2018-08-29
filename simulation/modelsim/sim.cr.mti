@@ -1,0 +1,73 @@
+{C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/store_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/store_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity store_tb
+-- Compiling architecture behavioral of store_tb
+
+} {} {}} {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/regfile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/regfile.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity regfile
+-- Compiling architecture rtl of regfile
+
+} {} {}} {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/alu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity alu
+-- Compiling architecture behavioral of alu
+
+} {} {}} {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/dmem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/dmem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity dmem
+-- Compiling architecture memory of dmem
+
+} {} {}} {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/imem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/imem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity imem
+-- Compiling architecture behavioral of imem
+
+} {} {}} {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/store.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\xiawe\OneDrive - The University of Sydney (Students)\ELEC3608 Computer Architecture\LAB4\Part 2&3\src\store.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common
+-- Compiling entity store
+-- Compiling architecture behavioral of store
+
+} {} {}} {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/common.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/xiawe/OneDrive - The University of Sydney (Students)/ELEC3608 Computer Architecture/LAB4/Part 2&3/src/common.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package common
+-- Compiling package body common
+-- Loading package common
+
+} {} {}}
